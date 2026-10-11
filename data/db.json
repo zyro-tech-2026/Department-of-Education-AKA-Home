@@ -1,0 +1,338 @@
+{
+  "notifications": [
+    {
+      "id": "notif_1743210001_a1b",
+      "title": "Schedule & Guidelines for Annual Institutional Board Examinations 2025-2026",
+      "number": "DOE/NOTIF/2026/041",
+      "date": "2026-03-28",
+      "description": "Comprehensive schedule, admit card release timeline, and examination hall guidelines for candidates appearing in the 2025-26 secondary and higher secondary examinations.",
+      "document": null,
+      "isPublished": true,
+      "status": "Active",
+      "createdAt": "2026-03-28T09:00:00.000Z",
+      "updatedAt": "2026-03-28T09:00:00.000Z"
+    },
+    {
+      "id": "notif_1743210002_a2c",
+      "title": "Mandatory Faculty Roster Verification and Academic Compliance Review",
+      "number": "DOE/NOTIF/2026/039",
+      "date": "2026-03-24",
+      "description": "All affiliated educational institutions are directed to submit verified faculty rosters and teacher qualification accreditations by the specified deadline.",
+      "document": null,
+      "isPublished": true,
+      "status": "Active",
+      "createdAt": "2026-03-24T10:30:00.000Z",
+      "updatedAt": "2026-03-24T10:30:00.000Z"
+    },
+    {
+      "id": "notif_1743210003_a3d",
+      "title": "Special Merit Scholarship Grant Allocation for High-Achieving Students",
+      "number": "DOE/NOTIF/2026/035",
+      "date": "2026-03-18",
+      "description": "Announcement of the institutional scholarship disbursement scheme for qualifying students from economically challenged backgrounds across regional schools.",
+      "document": null,
+      "isPublished": true,
+      "status": "Active",
+      "createdAt": "2026-03-18T14:15:00.000Z",
+      "updatedAt": "2026-03-18T14:15:00.000Z"
+    }
+  ],
+  "circulars": [
+    {
+      "id": "circ_1743210004_b1b",
+      "title": "Implementation of Modern Pedagogical Framework & Science Laboratory Safety Standards",
+      "number": "DOE/CIR/2026/088",
+      "date": "2026-03-27",
+      "description": "Standard operating protocols for laboratory safety, chemical storage, hazardous equipment containment, and revised experimental curriculum.",
+      "document": null,
+      "isPublished": true,
+      "status": "Active",
+      "createdAt": "2026-03-27T11:00:00.000Z",
+      "updatedAt": "2026-03-27T11:00:00.000Z"
+    },
+    {
+      "id": "circ_1743210005_b2c",
+      "title": "Advisory Concerning Campus Environmental Green Audit and Solar Energy Initiatives",
+      "number": "DOE/CIR/2026/084",
+      "date": "2026-03-21",
+      "description": "Institutional circular requiring accredited institutions to perform annual energy and waste audits in adherence to state sustainability mandates.",
+      "document": null,
+      "isPublished": true,
+      "status": "Active",
+      "createdAt": "2026-03-21T08:45:00.000Z",
+      "updatedAt": "2026-03-21T08:45:00.000Z"
+    },
+    {
+      "id": "circ_1743210006_b3d",
+      "title": "Establishment of Mental Health Guidance Cells & Student Counseling Centers",
+      "number": "DOE/CIR/2026/079",
+      "date": "2026-03-15",
+      "description": "Directive detailing the setup, professional staffing, and non-judgmental counseling protocols for student well-being centers in all member institutions.",
+      "document": null,
+      "isPublished": true,
+      "status": "Active",
+      "createdAt": "2026-03-15T15:20:00.000Z",
+      "updatedAt": "2026-03-15T15:20:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord_1743210007_c1b",
+      "title": "Executive Determination on Affiliation Renewal for Regional Higher Secondary Institutes",
+      "number": "DOE/ORD/2026/019",
+      "date": "2026-03-29",
+      "description": "Formal administrative order sanctioning the extension of institutional recognition and academic operational licenses for the 2026-2027 cycle.",
+      "document": null,
+      "isPublished": true,
+      "status": "Active",
+      "createdAt": "2026-03-29T16:00:00.000Z",
+      "updatedAt": "2026-03-29T16:00:00.000Z"
+    },
+    {
+      "id": "ord_1743210008_c2c",
+      "title": "Sanction of Capital Grants for Digital Classroom Infrastructure Phase IV",
+      "number": "DOE/ORD/2026/015",
+      "date": "2026-03-22",
+      "description": "Administrative allocation of modernization funds for smart classroom hardware, interactive projectors, and high-speed institutional intranet installations.",
+      "document": null,
+      "isPublished": true,
+      "status": "Active",
+      "createdAt": "2026-03-22T10:10:00.000Z",
+      "updatedAt": "2026-03-22T10:10:00.000Z"
+    },
+    {
+      "id": "ord_1743210009_c3d",
+      "title": "Constitution of Independent Grievance Redressal Committee",
+      "number": "DOE/ORD/2026/011",
+      "date": "2026-03-12",
+      "description": "Order notifying the formation, quorum, and powers of the five-member collegiate appellate body for administrative dispute settlements.",
+      "document": null,
+      "isPublished": true,
+      "status": "Active",
+      "createdAt": "2026-03-12T13:40:00.000Z",
+      "updatedAt": "2026-03-12T13:40:00.000Z"
+    }
+  ],
+  "results": [
+    {
+      "id": "res_1743210010_d1a",
+      "title": "Annual Higher Secondary Board Examination 2025-26 Official Merit & Score Results",
+      "number": "DOE/RES/2026/014",
+      "date": "2026-03-30",
+      "description": "Comprehensive statewide examination results, district percentile summaries, and institutional rankings for the Senior Secondary Academic Division.",
+      "document": null,
+      "isPublished": true,
+      "status": "Declared",
+      "category": "Examination",
+      "createdAt": "2026-03-30T10:00:00.000Z",
+      "updatedAt": "2026-03-30T10:00:00.000Z"
+    },
+    {
+      "id": "res_1743210011_d2b",
+      "title": "State Educational Service Assistant Lecturer Recruitment Examination Final Results",
+      "number": "DOE/RES/2026/009",
+      "date": "2026-03-25",
+      "description": "Selection merit list, category cut-off marks, and verification schedule for candidates selected under Recruitment Notice DOE/REC/2025/11.",
+      "document": null,
+      "isPublished": true,
+      "status": "Declared",
+      "category": "Recruitment",
+      "createdAt": "2026-03-25T14:30:00.000Z",
+      "updatedAt": "2026-03-25T14:30:00.000Z"
+    },
+    {
+      "id": "res_1743210012_d3c",
+      "title": "National Talent Search & Meritorious Scholarship Examination 2026 Merit List",
+      "number": "DOE/RES/2026/005",
+      "date": "2026-03-19",
+      "description": "Official list of qualifying scholars awarded financial stipends and recognition certificates following the multi-tier evaluation.",
+      "document": null,
+      "isPublished": true,
+      "status": "Declared",
+      "category": "Merit List",
+      "createdAt": "2026-03-19T09:15:00.000Z",
+      "updatedAt": "2026-03-19T09:15:00.000Z"
+    },
+    {
+      "id": "res_1743210013_d4d",
+      "title": "Curriculum Equivalence & Re-evaluation Committee Determination Outcomes",
+      "number": "DOE/RES/2026/002",
+      "date": "2026-03-10",
+      "description": "Official notification of revised marks, grade rectifications, and grievance settlements following the post-examination scrutiny panel.",
+      "document": null,
+      "isPublished": true,
+      "status": "Declared",
+      "category": "Screening",
+      "createdAt": "2026-03-10T11:45:00.000Z",
+      "updatedAt": "2026-03-10T11:45:00.000Z"
+    }
+  ],
+  "contact": {
+    "officeAddress": "DoE, 1st Floor, Old Secretariat, AKAH-54",
+    "email": "help.doe@gov.akah",
+    "phone": "011-93358876",
+    "workingHours": "Monday to Friday: 09:00 AM - 05:00 PM IST",
+    "additionalNotice": "Nodal Officer for Public Communications & Administrative Queries",
+    "updatedAt": "2026-10-08T13:46:26.357Z"
+  },
+  "homeContent": {
+    "websiteTitle": "Department of Education",
+    "subtitle": "AKA Home · Official Repository",
+    "heroHeading": "Department of Education",
+    "heroSubtitle": "AKA Home",
+    "heroKicker": "Institutional Document Repository",
+    "heroDescription": "The Department of Education, AKA Home is an independent educational administration dedicated to academic governance, institutional standards, curriculum coordination, and administrative integrity. This portal serves as the centralized repository for all official notifications, administrative circulars, executive orders, and institutional communications.",
+    "heroButtons": {
+      "primaryText": "View Notifications",
+      "primaryTarget": "notifications",
+      "secondaryText": "Administrative Circulars",
+      "secondaryTarget": "circulars"
+    },
+    "welcomeHeading": "Institutional Repository & Directives",
+    "welcomeText": "All documents published in this repository are maintained by the administrative office of Department of Education, AKA Home. For clarification on published records or inquiries, navigate to the Contact section.",
+    "noticeBanner": {
+      "enabled": false,
+      "badgeText": "IMPORTANT NOTICE",
+      "message": "",
+      "linkText": "Read More",
+      "linkTarget": "notifications"
+    },
+    "stats": [
+      {
+        "id": "stat-notifs",
+        "label": "Official Notifications",
+        "value": "Live Archive",
+        "isCustom": false,
+        "enabled": true
+      },
+      {
+        "id": "stat-circs",
+        "label": "Administrative Circulars",
+        "value": "Updated Weekly",
+        "isCustom": false,
+        "enabled": true
+      },
+      {
+        "id": "stat-orders",
+        "label": "Executive Orders",
+        "value": "Verified Records",
+        "isCustom": false,
+        "enabled": true
+      },
+      {
+        "id": "stat-public",
+        "label": "Public Access",
+        "value": "100% Free",
+        "isCustom": true,
+        "enabled": true
+      }
+    ],
+    "heroImageUrl": "",
+    "updatedAt": "2026-10-08T15:52:26.488Z"
+  },
+  "navItems": [
+    {
+      "id": "home",
+      "label": "Home",
+      "target": "home",
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "id": "public-circular",
+      "label": "Public Circular",
+      "target": "public-circular",
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "id": "results",
+      "label": "Result",
+      "target": "results",
+      "order": 3,
+      "enabled": true
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "target": "contact",
+      "order": 4,
+      "enabled": true
+    }
+  ],
+  "aboutContent": {
+    "heading": "About Department of Education, AKA Home",
+    "subtitle": "Governance, Standards, and Institutional Integrity",
+    "description": "The Department of Education, AKA Home operates as an independent educational administration overseeing administrative coordination, curriculum guidance, official circular distribution, and institutional directives.",
+    "mission": "To foster educational excellence, institutional transparency, and administrative rigor through clear public notices, verified circulars, and disciplined governance standards.",
+    "vision": "A modern, accessible, and accountable institutional framework providing equitable educational oversight and reliable repository access for students, educators, and administrators.",
+    "coreValues": [
+      {
+        "title": "Transparency",
+        "description": "Immediate public access to all circulars, notifications, and administrative determinations."
+      },
+      {
+        "title": "Academic Integrity",
+        "description": "Upholding rigorous pedagogical standards and institutional compliance across all programs."
+      },
+      {
+        "title": "Accountability",
+        "description": "Systematic record-keeping and verifiable executive orders published in digital repository format."
+      },
+      {
+        "title": "Accessibility",
+        "description": "Universal access to public documentation with clear classification and responsive support."
+      }
+    ],
+    "keyResponsibilities": [
+      "Issuing regulatory circulars and advisory memoranda.",
+      "Publishing official notifications and public announcements.",
+      "Executing institutional orders and administrative directives.",
+      "Maintaining verifiable public document records and archival repositories.",
+      "Addressing public correspondence and institutional inquiries."
+    ],
+    "updatedAt": "2026-10-08T15:52:26.488Z"
+  },
+  "footerContent": {
+    "departmentName": "Department of Education",
+    "subTitle": "AKA Home · Administrative Repository",
+    "tagline": "Centralized institutional catalog for official notifications, circulars, executive directives, and verified educational correspondence.",
+    "copyrightText": "© 2026 Department of Education, AKA Home. All institutional rights reserved.",
+    "disclaimer": "This website is an independent institutional document repository for Department of Education, AKA Home. It is not connected to any government department, public authority, or external state portal.",
+    "importantLinks": [
+      {
+        "label": "Public Circular",
+        "url": "public-circular"
+      },
+      {
+        "label": "Examination Results",
+        "url": "results"
+      },
+      {
+        "label": "Contact Directory",
+        "url": "contact"
+      },
+      {
+        "label": "About the Department",
+        "url": "about"
+      }
+    ],
+    "socialLinks": [],
+    "updatedAt": "2026-10-08T15:52:26.488Z"
+  },
+  "siteSettings": {
+    "websiteTitle": "Department of Education - AKA Home",
+    "websiteDescription": "Official institutional portal for Department of Education, AKA Home featuring notifications, circulars, orders, and official notices.",
+    "logoText": "Department of Education",
+    "logoSubtext": "AKA Home · Official Repository",
+    "logoUrl": "",
+    "faviconUrl": "",
+    "themeColor": "royal-blue",
+    "emergencyBanner": {
+      "enabled": false,
+      "text": "",
+      "level": "info"
+    },
+    "updatedAt": "2026-10-08T15:52:26.488Z"
+  }
+}

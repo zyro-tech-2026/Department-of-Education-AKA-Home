@@ -1,0 +1,7 @@
+{
+  "name": "Department of Education - AKA Home",
+  "description": "Official institutional portal for Department of Education, AKA Home featuring notifications, circulars, orders, and official notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
