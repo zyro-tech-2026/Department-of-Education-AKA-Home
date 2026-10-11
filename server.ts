@@ -406,8 +406,9 @@ const ADMIN_ACCOUNTS_LIST: AdminAccountDef[] = [
     role: 'Administrator (IT Branch)',
     getValidPasswords: () => {
       const envPass = process.env.ADMIN_ITBDOE_PASSWORD || process.env.ADMIN_USER1_PASSWORD;
-      if (envPass) return [envPass];
-      return ['itb.doe@akah', 'DoEakah@2026'];
+      const valid = ['it.b@doe26', 'itb.doe@akah'];
+      if (envPass && !valid.includes(envPass)) valid.unshift(envPass);
+      return valid;
     },
   },
   {
@@ -415,8 +416,9 @@ const ADMIN_ACCOUNTS_LIST: AdminAccountDef[] = [
     role: 'Administrator (DoE)',
     getValidPasswords: () => {
       const envPass = process.env.ADMIN_DOEADMIN_PASSWORD || process.env.ADMIN_USER2_PASSWORD;
-      if (envPass) return [envPass];
-      return ['DoEakah@2026', 'itb.doe@akah'];
+      const valid = ['doe.admin@26', 'DoEakah@2026'];
+      if (envPass && !valid.includes(envPass)) valid.unshift(envPass);
+      return valid;
     },
   },
   // Legacy account aliases for backward compatibility
@@ -425,8 +427,9 @@ const ADMIN_ACCOUNTS_LIST: AdminAccountDef[] = [
     role: 'Administrator (IT Branch)',
     getValidPasswords: () => {
       const envPass = process.env.ADMIN_ITBDOE_PASSWORD;
-      if (envPass) return [envPass];
-      return ['itb.doe@akah'];
+      const valid = ['it.b@doe26', 'itb.doe@akah'];
+      if (envPass && !valid.includes(envPass)) valid.unshift(envPass);
+      return valid;
     },
   },
   {
@@ -434,8 +437,9 @@ const ADMIN_ACCOUNTS_LIST: AdminAccountDef[] = [
     role: 'Administrator',
     getValidPasswords: () => {
       const envPass = process.env.ADMIN_DOEADMIN_PASSWORD;
-      if (envPass) return [envPass];
-      return ['DoEakah@2026'];
+      const valid = ['doe.admin@26', 'DoEakah@2026'];
+      if (envPass && !valid.includes(envPass)) valid.unshift(envPass);
+      return valid;
     },
   },
 ];
